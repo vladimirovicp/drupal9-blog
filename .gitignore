@@ -9,6 +9,7 @@ public_html/sites/default/files/css
 public_html/sites/default/files/js
 public_html/sites/default/files/languages
 public_html/sites/default/files/php
+public_html/sites/default/files/translations
 
 drush/Commands/contrib/
 /tmp/
