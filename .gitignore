@@ -5,13 +5,10 @@ public_html/libraries
 public_html/modules/contrib/
 public_html/themes/contrib/
 
-public_html/sites/*/files
-public_html/sites/*/private
-
-#public_html/sites/default/files/css
-#public_html/sites/default/files/js
-#public_html/sites/default/files/languages
-#public_html/sites/default/files/php
+public_html/sites/default/files/css
+public_html/sites/default/files/js
+public_html/sites/default/files/languages
+public_html/sites/default/files/php
 
 drush/Commands/contrib/
 /tmp/
